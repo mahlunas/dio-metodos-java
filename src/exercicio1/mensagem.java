@@ -29,10 +29,11 @@ public class mensagem {
             case 22:
             case 23:
             case 24:
-            case 00:
-            case 01:
-            case 02:
-            case 04:
+            case 0:
+            case 1:
+            case 2:
+            case 3:
+            case 4:
                 mensagemBoaNoite();
                 break;
             default:
